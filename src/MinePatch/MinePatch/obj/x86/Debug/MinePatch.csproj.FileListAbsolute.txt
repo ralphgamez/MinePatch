@@ -1,0 +1,7 @@
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Debug\MinePatch.Minepatch.resources
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Debug\MinePatch.Properties.Resources.resources
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Debug\MinePatch.csproj.GenerateResource.Cache
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\bin\Debug\MinePatch.exe
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\bin\Debug\MinePatch.pdb
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Debug\MinePatch.exe
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Debug\MinePatch.pdb

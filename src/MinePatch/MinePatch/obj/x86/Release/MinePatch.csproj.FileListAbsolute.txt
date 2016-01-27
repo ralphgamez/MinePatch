@@ -1,0 +1,10 @@
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\bin\Release\MinePatch.exe
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\bin\Release\MinePatch.pdb
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.Minepatch.resources
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.Properties.Resources.resources
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.csproj.GenerateResource.Cache
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.exe
+c:\users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.pdb
+C:\Users\ralph\documents\visual studio 2010\Projects\MinePatch\MinePatch\obj\x86\Release\MinePatch.csprojResolveAssemblyReference.cache
+C:\Users\ralph\Desktop\minepatch\MinePatch\src\MinePatch\MinePatch\obj\x86\Release\MinePatch.exe
+C:\Users\ralph\Desktop\minepatch\MinePatch\src\MinePatch\MinePatch\obj\x86\Release\MinePatch.pdb
